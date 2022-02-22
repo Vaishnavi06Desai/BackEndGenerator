@@ -1,0 +1,23 @@
+{
+    "name": "backendgenerator",
+    "version": "1.0.0",
+    "description": "This is a code generator to generate express server and APIs",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Vaishnavi06Desai/BackEndGenerator.git"
+    },
+    "author": "Vaishnavi Desai",
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Vaishnavi06Desai/BackEndGenerator/issues"
+    },
+    "homepage": "https://github.com/Vaishnavi06Desai/BackEndGenerator#readme"
+}
