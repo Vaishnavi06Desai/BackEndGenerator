@@ -13,8 +13,12 @@ $ node index.js run
 ```
 #### Instructions for Contribution
 ```
-$ Fork this repository
-$ Clone forked repository
+$ Fork the repository 
+$ Clone the repository to your local machine
+$ Create a new branch for your changes
+$ Make some changes and commit them with useful messages
+$ Push the changes to your repository
+$ Create a Pull Request from your repository back to the original one
 $ npm i
 $ node index.js run 
 ```
