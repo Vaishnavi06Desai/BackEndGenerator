@@ -1,5 +1,3 @@
-# BackEndGenerator
-
 # BackEndGenerator ⚡
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Vaishnavi06Desai/BackEndGenerator?style=for-the-badge)
